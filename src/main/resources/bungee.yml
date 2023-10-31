@@ -1,0 +1,3 @@
+name: SimpleFAQ
+version: '${version}'
+main: lol.gggedr.simplefaq.SimpleFAQ

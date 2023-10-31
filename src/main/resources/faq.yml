@@ -1,0 +1,39 @@
+header:
+  - "&b&lServerName &7- &b&lFAQ"
+
+question:
+  - "  &b%number%. &f%question%"
+  - "    &7Click to view answer."
+
+answer:
+  - " &b%question%"
+  - "   &f%answer%"
+
+footer:
+    - "&bIf you have more questions, ask our team!"
+
+not-found: "&bQuestion not found!"
+
+content:
+  1:
+    question: "What is the name of this server?"
+    answer:
+      - "This server is called &bServerName&f."
+
+  2:
+    question: "What is the IP of this server?"
+    answer:
+      - "The IP of this server is &bmc.servername.com&f."
+
+  3:
+    question: "What is website of this server?"
+    answer:
+      - "The website of this server is &bwww.servername.com&f."
+
+# If you want to add more questions, just add more numbers and copy the format above.
+#
+# Example:
+# 4:
+#   question: "What is the name of this server?"
+#   answer:
+#     - "This server is called &bServerName&f."
